@@ -1,0 +1,4 @@
+*.tmp
+*.part
+*.download
+artifacts/

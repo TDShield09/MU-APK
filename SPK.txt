@@ -1,0 +1,2 @@
+# MU Android update feed. Format: Data/relative/path;CRC32;size;HTTPS-URL
+# APK format: apk/name.apk;CRC32;size;HTTPS-GitHub-Release-asset-URL
