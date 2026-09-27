@@ -1,2 +1,2 @@
-# MU Android update feed. Format: Data/relative/path;CRC32;size;HTTPS-URL
-# APK format: apk/name.apk;CRC32;size;HTTPS-GitHub-Release-asset-URL
+# MU Android update manifest. Format: path;CRC32;size;HTTPS download URL
+apk/Royal-MU.apk;8855E299;885186884;https://github.com/TDShield09/MU-APK/releases/download/v1.0.1/Royal-MU.apk
